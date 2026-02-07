@@ -202,9 +202,7 @@ The system uses unsupervised methods to detect drift:
 - **ML**: Random Forest classifier
 - **Statistics**: PSI, KS-test, Wasserstein distance
 
-## License
 
-MIT License - See LICENSE file for details
 
 ## Acknowledgments
 
