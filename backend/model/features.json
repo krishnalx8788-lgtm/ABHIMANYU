@@ -1,0 +1,23 @@
+{
+  "features": [
+    "amount",
+    "category",
+    "user_type",
+    "region"
+  ],
+  "categorical_mappings": {
+    "category": {
+      "A": 0,
+      "B": 1,
+      "C": 2
+    },
+    "user_type": {
+      "new": 0,
+      "old": 1
+    },
+    "region": {
+      "north": 0,
+      "south": 1
+    }
+  }
+}

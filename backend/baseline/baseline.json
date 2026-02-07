@@ -1,0 +1,29 @@
+{
+  "amount_mean": 100.13675989177295,
+  "amount_std": 19.625064947237064,
+  "label_rate": 0.508,
+  "row_count": 500,
+  "avg_confidence": 0.999,
+  "accuracy": 1.0,
+  "prediction_rate": 0.508,
+  "category_distribution": {
+    "B": 169,
+    "C": 169,
+    "A": 162
+  },
+  "user_type_distribution": {
+    "new": 266,
+    "old": 234
+  },
+  "region_distribution": {
+    "south": 261,
+    "north": 239
+  },
+  "amount_percentiles": {
+    "p5": 69.6919998522735,
+    "p25": 85.99385191072446,
+    "p50": 100.25594292659702,
+    "p75": 112.7356650826959,
+    "p95": 132.57610666978618
+  }
+}
